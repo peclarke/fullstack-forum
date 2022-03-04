@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Fullstack Forum
+
+A platform where users can register/login, and post and create threads. A private messaging system is also in the works for the future.
+
+Note: This project is still a Work in Progress TM.
+
+## Screenshots
+![Register](https://user-images.githubusercontent.com/30831649/156856320-4c56bb2b-6b20-4c8d-8404-a0b22363d1a8.png)
+![Successful Login](https://user-images.githubusercontent.com/30831649/156856331-780943b8-c272-4a24-8dc7-da62159bdfcf.png)
+![Thread](https://user-images.githubusercontent.com/30831649/156856352-0806d0af-8ea4-497a-8cc4-bbc93e9bf823.png)
+![Homepage while Logged In](https://user-images.githubusercontent.com/30831649/156856363-99d9e395-1d7b-41fa-89ee-aa1e9996f9b6.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
