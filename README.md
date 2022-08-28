@@ -2,7 +2,7 @@
 
 A platform where users can register/login, and post and create threads. A private messaging system is also in the works for the future.
 
-Note: This project is still a Work in Progress TM.
+Note: This project is still a Work in Progress TM. Test!
 
 ## Screenshots
 ![Register](https://user-images.githubusercontent.com/30831649/156856320-4c56bb2b-6b20-4c8d-8404-a0b22363d1a8.png)
